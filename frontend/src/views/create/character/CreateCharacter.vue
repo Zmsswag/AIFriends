@@ -60,7 +60,6 @@ async function handleCreate() {
 
 
     } catch (err) {
-      console.log(err)
     }
   }
 }
